@@ -11,22 +11,16 @@ function Home() {
       <div
         className={style.container}
       >
-        <div
-          className={style.card}
+        <h1
+          className={style.title}
         >
-          <h1
-            className={style.title}
-          >
-            Saas Home
-          </h1>
-          <p
-            className={style.subtitle}
-          >
-            Work in Progress...
-          </p>
-        </div>
-        <div className={style.circle1}></div>
-        <div className={style.circle2}></div>
+          Saas Home
+        </h1>
+        <p
+          className={style.subtitle}
+        >
+          Work in Progress...
+        </p>
       </div>
     </>
   )
