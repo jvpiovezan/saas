@@ -1,0 +1,23 @@
+{
+  "name": "saas",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvpiovezan/saas.git"
+  },
+  "author": "vitu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvpiovezan/saas/issues"
+  },
+  "homepage": "https://github.com/jvpiovezan/saas#readme",
+  "dependencies": {
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
